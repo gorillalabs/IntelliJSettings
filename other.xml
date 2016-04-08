@@ -1,0 +1,25 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Clojure</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="RemoteTailSettings">
+    <connections>
+      <connection host="" port="0" username="" password="" filePath="" />
+    </connections>
+    <setting name="audioClipPath" value="" />
+    <setting name="bufferSize" value="1000" />
+  </component>
+</application>
