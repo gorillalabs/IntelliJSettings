@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Capstanfile" type="PLAIN_TEXT" />
       <mapping ext="sass" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
     </extensionMap>
