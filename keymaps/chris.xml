@@ -3,6 +3,9 @@
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id=":cursive.repl.actions/macroexpansion">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id=":cursive.repl.actions/run-last-sexp">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
@@ -38,6 +41,7 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="KotlinShellExecute" />
+  <action id="MinimizeCurrentWindow" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
