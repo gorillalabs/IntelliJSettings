@@ -35,9 +35,7 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
+  <action id="GotoLine" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="KotlinShellExecute" />
