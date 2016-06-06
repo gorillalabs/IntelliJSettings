@@ -1,4 +1,7 @@
 <keymap version="1" name="chris" parent="Mac OS X">
+  <action id=":cursive.repl.actions/clear-repl">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id=":cursive.repl.actions/execute-immediately" />
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -21,6 +24,7 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="CheckinProject" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
