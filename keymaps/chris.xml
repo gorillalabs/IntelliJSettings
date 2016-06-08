@@ -28,6 +28,11 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift meta s" />
