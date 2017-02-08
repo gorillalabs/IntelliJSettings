@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/cb/Projects/gorillalabs/tesla/src/gorillalabs/tesla/component/httpkit.clj'" />
-    <option name="defaultScopeName" value="File '/Users/cb/Projects/gorillalabs/tesla/src/gorillalabs/tesla/component/httpkit.clj'" />
+    <option name="customScope" value="Project 'ONe'" />
+    <option name="defaultScopeName" value="Project 'ONe'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/cb/Projects/gorillalabs/tesla/src/gorillalabs/tesla/component/httpkit.clj'" />
+    <option name="SEARCH_SCOPE" value="Project 'ONe'" />
   </component>
 </application>
